@@ -1,7 +1,7 @@
 <details>
 <summary>Как купить Amnezia Premium — пошаговая инструкция (нажмите, чтобы развернуть)</summary>
 
-1. Откройте страницу оплаты.  
+1. Откройте [страницу оплаты](https://storage.googleapis.com/amnezia/pay?m-path=/ru/product/amnezia-premium).  
 ❗️Внимание: только официальный сайт [amnezia.org](https://amnezia.org/ru) и его [зеркала](https://storage.googleapis.com/amnezia/amnezia.org) гарантируют безопасную оплату, остерегайтесь мошенников!
 
 2. Выберите тариф (6 или 12 месяцев) и способ оплаты.
