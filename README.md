@@ -1,12 +1,13 @@
-If the https://amnezia.org site is blocked the mirror is here / Если сайт https://amnezia.org заблокирован, зеркало тут:
+If the https://amnezia.org site is blocked, use [the mirror link](https://storage.googleapis.com/amnezia/amnezia.org?utm_source=github&utm_medium=pinnedrepo&utm_campaign=amnezia_mirror). 
 
-https://storage.googleapis.com/amnezia/amnezia.org
+Если сайт https://amnezia.org заблокирован, используйте [зеркальную ссылку](https://storage.googleapis.com/amnezia/amnezia.org?utm_source=github&utm_medium=pinnedrepo&utm_campaign=amnezia_mirror).
 
 <details>
 <summary>Как купить Amnezia Premium — пошаговая инструкция (нажмите, чтобы развернуть)</summary>
 
-1. Откройте [страницу оплаты](https://storage.googleapis.com/amnezia/pay?m-path=/ru/product/amnezia-premium).  
-❗️Внимание: только официальный сайт [amnezia.org](https://amnezia.org/ru) и его [зеркала](https://storage.googleapis.com/amnezia/amnezia.org) гарантируют безопасную оплату, остерегайтесь мошенников!
+1. Откройте [страницу оплаты](https://storage.googleapis.com/amnezia/pay?m-path=/ru/product/amnezia-premium?utm_source=github&utm_medium=pinnedrepo&utm_campaign=purchase).  
+
+❗️Внимание: только официальный сайт [amnezia.org](https://amnezia.org/ru) и его [зеркала](https://storage.googleapis.com/amnezia/amnezia.org?utm_source=github&utm_medium=pinnedrepo&utm_campaign=amnezia_mirror) гарантируют безопасную оплату, остерегайтесь мошенников!
 
 2. Выберите тариф (6 или 12 месяцев) и способ оплаты.
    
@@ -30,32 +31,33 @@ https://storage.googleapis.com/amnezia/amnezia.org
 
 Запросить [тестовый период Amnezia Premium](http://@amnezia_premium_support_bot).
 
-Страница с ответами на [часто задаваемые вопросы](https://storage.googleapis.com/amnezia/docs?m-path=/ru/faq/).
+Страница с ответами на [часто задаваемые вопросы](https://storage.googleapis.com/amnezia/docs?m-path=/ru/faq/?utm_source=github&utm_medium=pinnedrepo&utm_campaign=faq).
 
-[Страница с документацией](https://storage.googleapis.com/amnezia/docs).
+[Страница с документацией](https://storage.googleapis.com/amnezia/docs?utm_source=github&utm_medium=pinnedrepo&utm_campaign=docs).
 
 Связаться со службой поддержки:
 
 ➡️ https://t.me/amnezia_premium_support_bot — для обладателей подписки Amnezia Premium;  
 ➡️ https://t.me/amnezia_support_bot — для пользователей self-hosted;  
 ➡️ https://t.me/amnezia_free_support_bot — для пользователей Amnezia Free;  
-➡️support@amnezia.org — по любым вопросам.
+➡️ support@amnezia.org — по любым вопросам.
 
 </details>
 
 ---
 
 ### How to Purchase Amnezia Premium: Step-by-Step Guide.  
-1. Go to the [payment webpage](https://storage.googleapis.com/amnezia/pay?m-path=/en/product/amnezia-premium).  
-❗️Warning: Only the official website [amnezia.org](https://amnezia.org/) and its [mirrors](https://storage.googleapis.com/amnezia/amnezia.org) guarantee secure payment — beware of scammers!
+1. Go to the [payment webpage](https://storage.googleapis.com/amnezia/pay?m-path=/en/product/amnezia-premium?utm_source=github&utm_medium=pinnedrepo&utm_campaign=purchase).  
+
+❗️Warning: only the official website [amnezia.org](https://amnezia.org/) and its [mirrors](https://storage.googleapis.com/amnezia/amnezia.org?utm_source=github&utm_medium=pinnedrepo&utm_campaign=amnezia_mirror) guarantee secure payment — beware of scammers!
 
 2. Select a plan (6 or 12 months) and a payment method.
 
 3. Enter your email address — the access key will be sent to it. Make sure there are no typos in the address.
  
-Note: We do not recommend using an email address with the @icloud domain. 
+Note: we do not recommend using an email address with the @icloud domain. 
 
-🎁 You can gift the subscription along with a short note—this option is available on the purchase screen.  
+🎁 You can gift the subscription along with a short note — this option is available on the purchase screen.  
 
 4. Read the Privacy Policy and Terms of Use, then check the box.
   
@@ -69,15 +71,15 @@ If you encounter any issues with payment, you can always contact our support tea
 
 Additionally:  
 
-Request a [trial period for Amnezia Premium](http://@amnezia_premium_support_bot).
+Request a [trial period of Amnezia Premium](http://@amnezia_premium_support_bot).
 
-[Frequently Asked Questions](https://storage.googleapis.com/amnezia/docs?m-path=/faq/) webpage.  
+[Frequently Asked Questions](https://storage.googleapis.com/amnezia/docs?m-path=/faq/?utm_source=github&utm_medium=pinnedrepo&utm_campaign=faq) webpage.  
 
-[Documentation webpage](https://storage.googleapis.com/amnezia/docs).  
+[Documentation webpage](https://storage.googleapis.com/amnezia/docs?utm_source=github&utm_medium=pinnedrepo&utm_campaign=docs).  
 
 Contact support:  
 
 ➡️ https://t.me/amnezia_premium_support_bot — for Amnezia Premium subscribers;  
 ➡️ https://t.me/amnezia_support_bot — for self-hosted users;  
 ➡️ https://t.me/amnezia_free_support_bot — for Amnezia Free users;  
-➡️support@amnezia.org — for any questions.
+➡️ support@amnezia.org — for any questions.
