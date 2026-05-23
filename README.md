@@ -1,3 +1,7 @@
+If the https://amnezia.org site is blocked the mirror is here / Если сайт https://amnezia.org заблокирован, зеркало тут:
+
+https://storage.googleapis.com/amnezia/amnezia.org
+
 <details>
 <summary>Как купить Amnezia Premium — пошаговая инструкция (нажмите, чтобы развернуть)</summary>
 
@@ -38,6 +42,8 @@
 ➡️support@amnezia.org — по любым вопросам.
 
 </details>
+
+---
 
 ### How to Purchase Amnezia Premium: Step-by-Step Guide.  
 1. Go to the [payment webpage](https://storage.googleapis.com/amnezia/pay?m-path=/en/product/amnezia-premium).  
